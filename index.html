@@ -9,29 +9,37 @@ layout: default
 
 <div class="row">
 
+
+
 <p>
-Offline reinforcement learning (RL) is a re-emerging area of study that aims to learn behaviors using only logged data, such as data from previous experiments or human demonstrations, without further environment interaction. It has the potential to make tremendous progress in a number of real-world decision-making problems where active data collection is expensive (<span><em>e.g.,</em></span> in robotics, drug discovery, dialogue generation, recommendation systems) or unsafe/dangerous (<span><em>e.g.,</em></span> healthcare, autonomous driving, or education). Such a paradigm promises to resolve a key challenge to bringing reinforcement learning algorithms out of constrained lab settings to the real world. 
+Offline reinforcement learning (RL) is a widely-studied area of study that aims to learn behaviors using only logged data, such as data from previous experiments or human demonstrations, without further environment interaction. It has the potential to make tremendous progress in a number of real-world decision-making problems where active data collection is expensive (<span><em>e.g.,</em></span> in robotics, drug discovery, dialogue generation, recommendation systems) or unsafe/dangerous (<span><em>e.g.,</em></span> healthcare, autonomous driving, or education). Such a paradigm promises to resolve a key challenge to bringing reinforcement learning algorithms out of constrained lab settings to the real world. 
 </p>
 
 <p>
-The <a href=https://offline-rl-neurips.github.io/> 1<sup>st</sup> offline RL workshop</a>, held at NeurIPS 2020, focused on and led to algorithmic development in offline RL and garnered wide attention. This year, we propose to shift the focus from algorithm design to <b>bridging the gap between offline RL research and real-world offline RL</b>. Our aim is to create a space for discussion between researchers and practitioners on topics of importance for enabling offline RL methods in the real-world. We will encourage discussions and contributions around (but not limited to) the following topics that are important in the context of enabling real-world applications of offline RL methods:
+<b> What's new in this edition? </b> While offline RL focuses on learning <em> solely </em> from fixed datasets, one of the main learning points from the <a href=https://offline-rl-neurips.github.io/2021> previous edition of offline RL workshop </a> was that large-scale RL applications typically want to use offline RL as part of a bigger system as opposed to being the end-goal in itself. Thus, we propose to shift the focus from algorithm design and offline RL applications to how <em> offline RL can be a launchpad </em>, i.e., a tool or a starting point, for solving challenges in sequential decision-making such as exploration, generalization, transfer, safety, and adaptation. Particularly, we are interested in studying and discussing methods for learning expressive models, policies, skills and value functions from data that can help us make progress towards efficiently tackling these challenges, which are otherwise often intractable. 
+</p>
+
+<p>
+<b> Topics to be discussed </b>. To this end, we have invited new speakers researching ways to use offline RL as a tool, as well as speakers whose focus areas present new and interesting decision-making challenges which can benefit from using offline RL as a tool. We are also organizing two panel discussions, one focused on discussing decision-making challenges in real-world applications, that can benefit from the offline RL tool, and one focused on understanding the key foundational research challenges in enabling offline RL as a launchpad.  We will encourage discussions and contributions around (but not limited to) the following topics that are important in the context of utilizing offline RL as a launchpad:
 </p>
 <ul>
-<li>Offline RL using datasets unrelated or loosely-related to the task of interest </li>
-<li>Real-world domains and benchmarks for offline RL</li>
-<li>Cross-validation, model selection and hyperparameter tuning in offline settings</li>
-<li>Accelerating lifelong and continual learning via offline RL</li>
-<li>Novel application domains for offline RL, <span><em>e.g.,</em></span> black-box optimization. </li>
-<li>Beyond pessimistic offline RL algorithms: generalization and uncertainty quantification</li>
-<li>Optimization, stability and learning dynamics of offline RL algorithms</li>
+<li> Re-using / transferring existing offline RL agents (i.e., <a href="https://arxiv.org/pdf/2206.01626.pdf" style="color:#808080;"> reincarnating RL </a>) </li>
+<li> Transfer and generalization of offline RL policies: multi-task and meta-learning </li>
+<li> Pre-training and learning from general-purpose, but unrelated data </li>
+<li> Representation learning for offline RL, and offline RL as a way of representation learning </li>
+<li> Effective methods for fine-tuning offline RL policies, especially to novel problem scenarios </li>
+<li> Fast adaptation and meta-learning of offline RL policies </li>
+<li> Effective exploration via skills learned from offline data </li>
+<li> Sample-efficient online RL via iterated offline RL or deployment-efficient offline RL </li>
+<li> Learning to explore safely using offline data, especially in the presence of other agents </li>
 </ul>
 </div>
 
 <p>
-The submission deadline is October 6, 2021 (Anywhere on Earth). Please refer to the <a href="https://offline-rl-neurips.github.io/2021/submit.html"> submission </a> page for more details.
+The submission deadline is October 6, 2022 (Anywhere on Earth). Please refer to the <a href="https://offline-rl-neurips.github.io/2022/submit.html"> submission </a> page for more details.
 </p>
 	
-<div id="PC" class="row">
+<!-- <div id="PC" class="row">
 <h3>Program Committee</h3>
 <div class="break"></div>
 	<ul style="width:25%; float:left; display: inline; ">
@@ -94,7 +102,7 @@ The submission deadline is October 6, 2021 (Anywhere on Earth). Please refer to 
 		<li>Yuwei Fu </li>
 	</ul>
 </div>
-
+ -->
 <div id="organizers" class="row">
 <h2 style="float:left;">Organizers</h2>
 <div class="break"></div>
