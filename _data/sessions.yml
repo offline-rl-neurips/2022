@@ -67,7 +67,7 @@
       Kmar, *Amy Zhang}
     camera_ready: ''
     id: 15
-    kind: poster
+    kind: oral
     supplement: true
     title: 'VIP: Towards Universal Visual Reward and Representation via Value-Implicit
       Pre-Training '
@@ -129,7 +129,7 @@
       schel, Edward Grefenstette, Yuandong Tian"
     camera_ready: https://drive.google.com/file/d/1GP08kaMfYzlDQSQXKY5Sojl-nMLpi1Q5/view?usp=sharing
     id: 26
-    kind: poster
+    kind: oral
     supplement: true
     title: Efficient Planning in a Compact Latent Action Space
     url: https://drive.google.com/file/d/1j78uB9on9bW_4MLqfxa5aUL-RluCiHKg/view?usp=sharing
@@ -153,7 +153,7 @@
   - authors: Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt, Alexandre Lacoste, Sai Rajeswar
     camera_ready: https://drive.google.com/file/d/1fJuGeW91nTXJxh4BQuIsiRpzpYfK5xY0/view?usp=sharing
     id: 30
-    kind: poster
+    kind: oral
     supplement: true
     title: 'Choreographer: Learning and Adapting Skills in Imagination'
     url: https://drive.google.com/file/d/1KCJjJYxDA1fcS3O7Xm5JQvbDK5HydVcR/view?usp=sharing
@@ -317,7 +317,7 @@
   - authors: Baiting Zhu, Meihua Dang, Aditya Grover
     camera_ready: https://drive.google.com/file/d/1VH0Toi4odbVG12EpIgYtpypAFL_nIbfp/view?usp=share_link
     id: 57
-    kind: poster
+    kind: oral
     supplement: false
     title: Pareto-Efficient Decision Agents for Offline Multi-Objective Reinforcement
       Learning
