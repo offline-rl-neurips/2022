@@ -1,13 +1,13 @@
 - id: 1
   papers:
   - authors: Soysal Degirmenci, Chris Jones
-    camera_ready: ''
+    camera_ready: 'https://drive.google.com/file/d/1m-e3scDH9M-YaZNfBTQmCGjM7PDqQSPF/view?usp=sharing'
     id: 2
     kind: poster
     supplement: true
     title: Benchmarking Offline Reinforcement Learning Algorithms for E-Commerce Order
       Fraud Evaluation
-    url: https://drive.google.com/file/d/1m-e3scDH9M-YaZNfBTQmCGjM7PDqQSPF/view?usp=sharing
+    url: ''
   - authors: Brahma S. Pavse, Josiah P. Hanna
     camera_ready: https://drive.google.com/file/d/1vKPzYv45c16_uzLbOhuFbNMW0otKpvWl/view?usp=sharing
     id: 3
@@ -18,12 +18,12 @@
     url: https://drive.google.com/file/d/13DZbFtDOPuaPwiPKL0trsxIcNwqKmOoU/view?usp=share_link
   - authors: Shengpu Tang, Felipe Vieira Frujeri, Dipendra Misra, Alex Lamb, John
       Langford, Paul Mineiro, Sebastian Kochman
-    camera_ready: ''
+    camera_ready: 'https://drive.google.com/file/d/1C7siqGedbhDJf1liHuGy6PD_lsGwPgmi/view?usp=sharing'
     id: 4
     kind: poster
     supplement: true
     title: Towards Data-Driven Offline Simulations of Online Reinforcement Learning
-    url: https://drive.google.com/file/d/1C7siqGedbhDJf1liHuGy6PD_lsGwPgmi/view?usp=sharing
+    url: ''
   - authors: David Brandfonbrener, Stephen Tu, Avi Singh, Stefan Welker, Chad Boodoo,
       Nikolai Matni, Jake Varley
     camera_ready: https://drive.google.com/file/d/1pftRKBt1_FwsA7_p0LzF5NoZIfVxNDYV/view?usp=sharing
@@ -57,21 +57,21 @@
       in Reinforcement Learning
     url: https://recorder-v3.slideslive.com/?share=78338&s=a821486b-7500-4d2b-8162-ccee532e0cbb
   - authors: Medric B. Djeafea Sonwa, Johanna Hansen, Eugene Belilovsky
-    camera_ready: ''
+    camera_ready: 'https://drive.google.com/file/d/1ehkAM6vcYOmkHm3O72cG3PnMPb43V31p/view?usp=share_link'
     id: 14
     kind: poster
     supplement: false
     title: Imitation from Observation With Bootstrapped Contrastive Learning
-    url: https://drive.google.com/file/d/1ehkAM6vcYOmkHm3O72cG3PnMPb43V31p/view?usp=share_link
+    url: ''
   - authors: Jason Ma, Shagun Sodhani, Dinesh Jayaraman, Osbert Bastani, {*Vikash
       Kmar, *Amy Zhang}
-    camera_ready: ''
+    camera_ready: 'https://drive.google.com/file/d/1mQwDSZCs3zN_c7hTfah-Jy6m4BvQJHz2/view?usp=share_link'
     id: 15
     kind: oral
     supplement: true
     title: 'VIP: Towards Universal Visual Reward and Representation via Value-Implicit
       Pre-Training '
-    url: https://drive.google.com/file/d/1mQwDSZCs3zN_c7hTfah-Jy6m4BvQJHz2/view?usp=share_link
+    url: ''
   - authors: Dan Qiao, Yu-Xiang Wang
     camera_ready: ''
     id: 16
@@ -354,25 +354,25 @@
     url: https://recorder-v3.slideslive.com/#/share?share=77646&s=a11a69b3-bf80-415f-94b7-7354f71a7778
   - authors: Jesse Farebrother, Joshua Greaves, Rishabh Agarwal, Charline Le Lan,
       Ross Goroshin, Pablo Samuel Castro, Marc G. Bellemare
-    camera_ready: ''
+    camera_ready: 'https://drive.google.com/file/d/1N65BeTBAARvP2Oghew233D9EF-GJNXJm/view?usp=share_link'
     id: 64
     kind: poster
     supplement: false
     title: 'Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks'
-    url: https://drive.google.com/file/d/1N65BeTBAARvP2Oghew233D9EF-GJNXJm/view?usp=share_link
+    url: ''
   - authors: "Ahmed Touati, J\xE9r\xE9my Rapin, Yann Ollivier"
-    camera_ready: ''
+    camera_ready: 'https://drive.google.com/file/d/1WyXoIYZ1M7OS2CA7Wg74bzF0GMd75L0k/view'
     id: 65
     kind: poster
     supplement: false
     title: Does Zero-Shot Reinforcement Learning Exist ?
-    url: https://drive.google.com/file/d/1WyXoIYZ1M7OS2CA7Wg74bzF0GMd75L0k/view?usp=sharing
+    url: ''
   - authors: Sofia Hurtado, Radu Marculescu
-    camera_ready: ''
+    camera_ready: 'https://drive.google.com/file/d/1bBVmLGJLe9rDeJAKFDO6NfwrEQxxvdHV/view?usp=sharing'
     id: 66
     kind: poster
     supplement: false
     title: On- and Offline Multi-agent Reinforcement Learning for Disease Mitigation
       using Human Mobility Data
-    url: https://drive.google.com/file/d/1bBVmLGJLe9rDeJAKFDO6NfwrEQxxvdHV/view?usp=sharing
+    url: ''
   title: session_title
